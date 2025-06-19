@@ -33,14 +33,14 @@
 
 ## 🛠 사용 기술 및 도구
 
-- * Cisco Router & Switch**
-- * Cisco ASAv (Adaptive Security Virtual Appliance)**  
-- * pfSense Firewall**
-- * OpenVPN (Remote Access VPN)**
-- * Snort, Suricata (네트워크 기반 IDS/IPS)**
-- * OSSEC (HIDS - 호스트 기반 IDS)**
-- * Zabbix (시스템 모니터링 및 에이전트 설치)**  
-- * VirtualBox, GNS3 (가상화 및 시뮬레이션 환경)**
+- Cisco Router & Switch
+- Cisco ASAv (Adaptive Security Virtual Appliance)
+- pfSense Firewall
+- OpenVPN (Remote Access VPN)
+- Snort, Suricata (네트워크 기반 IDS/IPS)
+- OSSEC (HIDS - 호스트 기반 IDS)
+- Zabbix (시스템 모니터링 및 에이전트 설치)
+- VirtualBox, GNS3 (가상화 및 시뮬레이션 환경)
 
 ---
 
