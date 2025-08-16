@@ -124,13 +124,13 @@
 
 - `gns3_15-9_virtualbox_setup.png`  
   [시스템] - 마더보드:  
-  - 메모리: 2048MB  
+  - 메모리: 8192MB  
   - 부팅순서: 하드디스크 > 광디스크 (둘 다 체크)
 
 - `gns3_15-10_virtualbox_setup.png`  
   [시스템] - 프로세서:  
-  - PAE/NX 활성화  
-  - 네스티드 VT-x/AMD-V 활성화
+  - CPU : 2개  
+  - PAE/NX 활성화
 
 - `gns3_15-11_virtualbox_setup.png`  
   [네트워크] - 어댑터 1:  
