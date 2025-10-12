@@ -123,7 +123,7 @@ Ubuntu Server 환경에서 침입 탐지 시스템인 **Snort3**를 설치하고
 - `snort_31_install_wget.png`  
   wget을 설치합니다.
 
-- `snort_32-01_install_gperftools.png` ~ `snort_32-05_install_gperftools.png`  
+- `snort_32-01_install_gperftools.png` ~ `snort_32-05_install_gperftools.png`
   gperftools를 다운로드하고 빌드 및 설치합니다.
 
 ---
@@ -170,7 +170,5 @@ Ubuntu Server 환경에서 침입 탐지 시스템인 **Snort3**를 설치하고
 ## 📎 참고 링크
 
 - Snort3 공식 문서: [https://docs.snort.org](https://docs.snort.org)
-
 - Snort3 GitHub: [https://github.com/snort3/snort3](https://github.com/snort3/snort3)
-
 - libdaq GitHub: [https://github.com/snort3/libdaq](https://github.com/snort3/libdaq)
